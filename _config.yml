@@ -1,11 +1,11 @@
 # Site settings
 author: Tyler Miller
-title: 
+title: Code for Thought
 header-img: img/home-bg.png
 email: tylerstephen11@gmail.com
 copyright_name: Tyler Miller
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Rediscovering a lifelong passion through programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: TylrStephen
 github_username:  ts-miller
